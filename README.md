@@ -1,2 +1,2 @@
-# Browser
-in app browser
+# CardView
+cardView
