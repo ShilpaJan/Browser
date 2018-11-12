@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_dots" />
+    <drawable name="album1" />
+    <drawable name="album2" />
+    <drawable name="album3" />
+    <drawable name="album4" />
+    <drawable name="album5" />
+    <drawable name="album6" />
+    <drawable name="album11" />
+    <drawable name="album10" />
+    <drawable name="album9" />
+    <drawable name="album8" />
+    <drawable name="album7" />
+    <drawable name="cover" />
+</resources>
